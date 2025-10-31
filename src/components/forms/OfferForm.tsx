@@ -247,9 +247,9 @@ const OfferForm = ({ offer, onSave, onCancel }: { offer?: Offer; onSave: (offer:
   const getDefaultRequiredDocuments = () => {
     const baseDocuments = [
       { key: 'cv', name: 'CV', required: true },
-      { key: 'diplome', name: 'Diploma', required: true },
-      { key: 'id_card', name: 'ID Card', required: true },
-      { key: 'cover_letter', name: 'Cover Letter', required: true }
+      { key: 'diplome', name: 'Diplome', required: true },
+      { key: 'id_card', name: 'Carte d\'identité', required: true },
+      { key: 'cover_letter', name: 'Letter de motivation', required: true }
     ];
     
     const additionalDocs = {

@@ -480,7 +480,8 @@ const en: Translations = {
   'rh.button.delete': 'Delete',
   'rh.button.manageUsers': 'Manage Users',
   'rh.button.cancel': 'Cancel',
-  
+    'askQuestion.cancel': 'Cancel',
+
   // Dashboard subtitles
   'rh.dashboard.applicationsSubtitle': 'Manage and review job applications',
 };
@@ -959,7 +960,8 @@ const fr: Translations = {
   'rh.button.delete': 'Supprimer',
   'rh.button.manageUsers': 'Gérer les Utilisateurs',
   'rh.button.cancel': 'Annuler',
-  
+    'askQuestion.cancel': 'Annuler',
+
   // Dashboard subtitles
   'rh.dashboard.applicationsSubtitle': 'Gérer et examiner les candidatures',
 };
